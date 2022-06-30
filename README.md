@@ -13,4 +13,3 @@
 }
 </pre>
 
-[This link](http://www.zhece.com) 米农，码农blog建设中，欢迎访问.
